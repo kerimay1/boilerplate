@@ -1,0 +1,10 @@
+@import url("variable.css");
+@import url("reset.css");
+
+#offline {
+  background-color: var(--offline-box);
+  margin: 5px;
+  padding: 5px;
+  border-radius: 2px;
+  display: none;
+}
